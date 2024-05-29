@@ -1,7 +1,7 @@
 **Introduction**
 
 This SQL project involves creating tables for Customers, Products, and Orders, inserting data, 
-and executing various SQL queries for data exploration, preparation, analysis, and visualization. 
+and executing various SQL queries for data exploration, preparation, analysis. 
 The project aims to derive insights from the dataset related to customer demographics, product 
 sales, and revenue analysis.
 
